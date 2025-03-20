@@ -13,17 +13,17 @@ This project provides a **Flask-based web application** that allows users to:
 ## 📸 Demo & Screenshots
 
 ### 🌍 Web Interface
-![App Screenshot](screenshots/ui.png)
+![App Screenshot](screenshots/demo.png)
 
 ### 📊 WordCloud Visualization
 **Ham Emails:**  
-![Ham WordCloud](screenshots/ham_wordcloud.png)
+![Ham WordCloud](screenshots/ham.png)
 
 **Spam Emails:**  
-![Spam WordCloud](screenshots/spam_wordcloud.png)
+![Spam WordCloud](screenshots/spam.png)
 
 ### 📈 Model Performance Comparison
-![Model Performance](screenshots/model_comparison.png)
+![Model Performance](screenshots/comparison.png)
 
 ---
 
