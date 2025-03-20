@@ -130,5 +130,5 @@ MIT License - Use this project freely for educational and personal purposes.
 
 ---
 
-### 🎯 Developed by **Your Name**
+### 🎯 Developed by **Zack**
 
